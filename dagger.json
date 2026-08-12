@@ -1,0 +1,8 @@
+{
+  "name": "pypi-publisher",
+  "description": "Build and publish Python distributions to PyPI-compatible indexes.",
+  "engineVersion": "v0.21.7",
+  "sdk": {
+    "source": "python"
+  }
+}
